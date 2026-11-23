@@ -1,0 +1,15 @@
+## Interface: 16001
+## Title: |cff33ff99CervecerosMendigos|rPvP
+## Notes: Campos de batalla y arenas: contadores, resumen, historial y honor.
+## Author: CervecerosMendigos
+## Version: 1.0
+## IconTexture: Interface\AddOns\CervecerosMendigosPvP\logo.tga
+## SavedVariables: CervecerosMendigosPvPHubDB, CervecerosMendigosCampoBatallaDB, CervecerosMendigosResumenDB, CervecerosMendigosCombatesDB, CervecerosMendigosHonorDB
+
+Config.lua
+Hub.lua
+Modulos\CampoBatalla\CampoBatalla.lua
+Modulos\Resumen\Datos.lua
+Modulos\Resumen\Resumen.lua
+Modulos\Combates\Combates.lua
+Modulos\Honor\Honor.lua

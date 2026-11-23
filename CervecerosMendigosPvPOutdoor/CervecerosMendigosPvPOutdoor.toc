@@ -1,0 +1,18 @@
+## Interface: 16001
+## Title: |cff33ff99CervecerosMendigos|rPvPOutdoor
+## Notes: PvP en mundo abierto: enemigos cercanos, voces, aviso al grupo y estado.
+## Author: CervecerosMendigos
+## Version: 1.0
+## IconTexture: Interface\AddOns\CervecerosMendigosPvPOutdoor\logo.tga
+## SavedVariables: CervecerosMendigosPvPOutdoorHubDB, CervecerosMendigosPvpOutdoorDB, otoriPvpOutdoorDB, PvPOutdoorDB, CervecerosMendigosAlertaEnemigosDB, CervecerosMendigosEstadoDB
+
+Config.lua
+Hub.lua
+Modulos\PvpOutdoor\Volumen.lua
+Modulos\PvpOutdoor\Voces_Dur.lua
+Modulos\PvpOutdoor\Voces_Datos.lua
+Modulos\PvpOutdoor\Enemigos.lua
+Modulos\PvpOutdoor\Voces.lua
+Modulos\AlertaEnemigos\CervecerosMendigosAlertaEnemigos.lua
+Modulos\Estado\Estado_Dur.lua
+Modulos\Estado\CervecerosMendigosEstado.lua

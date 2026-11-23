@@ -1,0 +1,22 @@
+## Interface: 16001
+## Title: |cff33ff99CervecerosMendigos|rGeneral
+## Notes: Leveo, profesiones, economia y comodidad.
+## Author: CervecerosMendigos
+## Version: 1.0
+## IconTexture: Interface\AddOns\CervecerosMendigosGeneral\logo.tga
+## SavedVariables: CervecerosMendigosGeneralHubDB, CervecerosMendigosLeveoDB, CervecerosMendigosExploradorDB, CervecerosMendigosProfesionesDB, CervecerosMendigosSubastaDB, CervecerosMendigosBancoDB, CervecerosMendigosCarritoDB, CervecerosMendigosMarcasDB, CervecerosMendigosAvisosDB, CervecerosMendigosContadorDB, CervecerosMendigosCooldownDB, otoriCooldownDB, CooldownColorDB
+
+Config.lua
+Hub.lua
+Modulos\Leveo\Datos.lua
+Modulos\Leveo\CervecerosMendigosLeveo.lua
+Modulos\Explorador\CervecerosMendigosExplorador.lua
+Modulos\Profesiones\Datos.lua
+Modulos\Profesiones\CervecerosMendigosProfesiones.lua
+Modulos\Subasta\CervecerosMendigosSubasta.lua
+Modulos\Banco\CervecerosMendigosBanco.lua
+Modulos\Carrito\CervecerosMendigosCarrito.lua
+Modulos\Marcas\CervecerosMendigosMarcas.lua
+Modulos\Avisos\CervecerosMendigosAvisos.lua
+Modulos\Contador\CervecerosMendigosContador.lua
+Modulos\Cooldown\CervecerosMendigosCooldown.lua

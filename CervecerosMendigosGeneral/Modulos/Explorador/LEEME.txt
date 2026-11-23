@@ -1,0 +1,13 @@
+CervecerosMendigosExplorador 1.0 - descubre el mapa (WoW Forever, Interface 16001)
+
+Abrir: boton del minimapa (clic derecho = pins del mapa del mundo) o /explorador
+  /explorador ir        marca el punto de vuelo por descubrir mas cercano
+  /explorador hueco     marca la zona sin explorar mas cercana de tu zona
+  /explorador calibrar  toma la zona actual como 100% (hazlo al terminarla)
+  /explorador pins | aviso | historial | minimap | diag
+
+Sobre el porcentaje: el cliente solo dice que texturas del mapa YA has descubierto, no cuantas
+hay en total. Por eso el % es: (verde) real, si existe el logro de exploracion de la zona;
+(azul ~) calibrado, tras "Calibrar 100%"; (naranja cob.) cobertura cruda del mapa, sin calibrar.
+Las zonas sin explorar son huecos junto a lo descubierto: pueden ser mar o sitios inaccesibles.
+Si algo sale vacio, /explorador diag dice que API falta.
