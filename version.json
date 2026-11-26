@@ -1,16 +1,16 @@
 {
   "addons": {
     "CervecerosMendigosGeneral": {
-      "version": "1.3",
-      "sha256": "3434a1a83321f58510a817edda96953673b967c49777524924e4e99c13b456f4"
+      "version": "1.3.1",
+      "sha256": "68d8ae061a2979bb9ec771d123cd972c8651a825855a105975102b8aa44d703d"
     },
     "CervecerosMendigosPvP": {
-      "version": "1.3",
-      "sha256": "68a82ec8850bd1895c33f62391e0fc35b8c7ea3515fe31d0a419ea7cd249b012"
+      "version": "1.3.1",
+      "sha256": "6446a002e88adc91277169c41cb28257db62c6c9ccab2cd7b2fe4f97111072bf"
     },
     "CervecerosMendigosPvPOutdoor": {
-      "version": "1.3",
-      "sha256": "e9d17e40e25cbde28358b54e65b8cabce1dcc8ef986436d044a7881db1f21c46"
+      "version": "1.3.1",
+      "sha256": "088208c7ae98a852a174190e5add1e7c8184a561ad4b30fc6c55c5f69ae44c8b"
     }
   }
 }
