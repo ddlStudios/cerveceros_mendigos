@@ -1,20 +1,20 @@
 {
   "addons": {
     "CervecerosMendigosGeneral": {
-      "version": "1.9",
-      "sha256": "d9b1117533dbdeab3ab0174d27ea0902fd6118835554815a9f421fb1c806f1f2"
+      "version": "2.0",
+      "sha256": "79a38b5b2cee6b2b8d5e6163f689dd0b971a88d2e5bbee75fc8c01cc680abc86"
     },
     "CervecerosMendigosPvP": {
-      "version": "1.9",
-      "sha256": "7d0234fc18166eb8b789e035532c08eb3563313474a6e7db368e7d98d2246d57"
+      "version": "2.0",
+      "sha256": "02f0064c4dbdc19c903019331b13815311bd56c06a0fe0fbdcd8abcf241ec565"
     },
     "CervecerosMendigosPvPOutdoor": {
-      "version": "1.9",
-      "sha256": "89fa700fc2ffa3e9b8fd481069bd85d401de153cd0928a50a7ff4a894b8ea583"
+      "version": "2.0",
+      "sha256": "f0ea54dab94160305feb228297fcbab209a49b7ab9462d44adef6a91729e8c94"
     },
     "CervecerosMendigosClases": {
-      "version": "1.9",
-      "sha256": "daa8900894009d620710c4667e858a80d150f67f4e3170bced8ec52c2e1d132f"
+      "version": "2.0",
+      "sha256": "d9c4786b5a4400b9a8a2c237aa6af6b290540e49a605c45b33cf262943c6b879"
     }
   }
 }
